@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ancg.iml" filepath="$PROJECT_DIR$/.idea/ancg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-ancg/blade-ancg.iml" filepath="$PROJECT_DIR$/blade-ancg/blade-ancg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blade-common/blade-common.iml" filepath="$PROJECT_DIR$/blade-common/blade-common.iml" />
     </modules>
   </component>
 </project>
